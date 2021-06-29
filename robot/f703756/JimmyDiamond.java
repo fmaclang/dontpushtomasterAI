@@ -1,4 +1,4 @@
-package DPTMAI;
+package robot.f703756;
 import robocode.*;
 //import java.awt.Color;
 
@@ -7,7 +7,8 @@ import robocode.*;
 /**
  * JimmyDiamond - a robot by (your name here)
  */
-public class JimmyDiamond extends Robot {
+public class JimmyDiamond extends Robot
+{
 	/**
 	 * run: JimmyDiamond's default behavior
 	 */
